@@ -57,8 +57,8 @@ The easiest way to get started is using the provided example dataset:
 
 ```python
 # Clone the repository
-git clone https://github.com/[your-username]/oyster-gxe-analysis.git
-cd oyster-gxe-analysis
+git clone https://github.com/gealish10/oyster-gxe-ml-analysis.git
+cd oyster-gxe-ml-analysis
 
 # Install dependencies
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost openpyxl
@@ -520,8 +520,8 @@ Key Laboratory of Mariculture, Ministry of Education
 Ocean University of China, Qingdao 266003, China
 
 **For questions or issues:**
-- GitHub Issues: [(https://github.com/gealish10/oyster-gxe-ml-analysis)]/issues
-- Email: [xcbai99@163.com]  
+- GitHub Issues: https://github.com/gealish10/oyster-gxe-ml-analysis/issues
+- Email: xcbai99@163.com 
 --- 
 
 ## Acknowledgments

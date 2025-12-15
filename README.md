@@ -520,7 +520,7 @@ Key Laboratory of Mariculture, Ministry of Education
 Ocean University of China, Qingdao 266003, China
 
 **For questions or issues:**
-- GitHub Issues: [Repository URL]/issues
+- GitHub Issues: [(https://github.com/gealish10/oyster-gxe-ml-analysis)]/issues
 - Email: [xcbai99@163.com]  
 --- 
 

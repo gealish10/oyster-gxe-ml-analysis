@@ -1,0 +1,21 @@
+# Python Package Requirements for Oyster G×E Analysis
+# Install all packages: pip install -r requirements.txt
+
+# Core scientific computing
+pandas>=1.3.0
+numpy>=1.21.0
+
+# Machine learning
+scikit-learn>=1.0.0
+xgboost>=1.5.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Excel file support
+openpyxl>=3.0.0
+
+# Optional: For better performance
+# scipy>=1.7.0
+# joblib>=1.0.0
